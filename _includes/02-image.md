@@ -1,1 +1,1 @@
-![Ryan Pitts Haitian pose](https://github.com/ryan-pitts/markdown-portfolio/blob/master/_includes/HaitianPose.jpg)
+![Ryan Pitts Haitian Pose](https://raw.githubusercontent.com/ryan-pitts/markdown-portfolio/master/_includes/HaitianPose.jpg)
