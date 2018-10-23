@@ -1,4 +1,3 @@
-Favorite soccer clubs
 * Arsenal
 * Barcelona FC
 * USA
