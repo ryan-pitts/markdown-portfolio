@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+Favorite soccer clubs
+* Arsenal
+* Barcelona FC
+* USA
+  * Men's National Team
+  * Women's National Team
+* DC United
+* AC Milan
