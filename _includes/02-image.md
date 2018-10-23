@@ -1,1 +1,1 @@
-![Haitian pose](https://pbs.twimg.com/media/DZZEpYOW0AA9RIs.jpg)
+![Ryan Pitts Haitian pose](https://github.com/ryan-pitts/markdown-portfolio/blob/master/_includes/HaitianPose.jpg)
